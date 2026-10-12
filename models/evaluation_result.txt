@@ -1,0 +1,24 @@
+Indian Cricket Face Identification
+=================================
+
+Number of classes: 10
+Training samples: 200
+Testing samples: 50
+Embedding size: 512
+
+Classification Performance
+--------------------------
+Accuracy: 94.00%
+Precision: 95.00%
+Recall: 94.00%
+F1-Score: 93.66%
+
+Unknown Detection
+------------------
+Known samples: 50
+Known accepted: 48
+Known acceptance rate: 96.00%
+Unknown samples: 4
+Unknown rejected: 4
+Unknown rejection rate: 100.00%
+Overall detection accuracy: 96.30%

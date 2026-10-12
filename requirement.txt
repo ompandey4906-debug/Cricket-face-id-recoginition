@@ -1,0 +1,9 @@
+
+streamlit
+torch
+torchvision
+facenet-pytorch
+scikit-learn
+numpy
+Pillow
+joblib
