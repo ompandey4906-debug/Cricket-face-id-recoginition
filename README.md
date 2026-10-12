@@ -20,7 +20,6 @@ A computer vision project that identifies selected Indian cricket players from a
 - Extract a 512-dimensional facial embedding using a pretrained FaceNet/InceptionResnetV1 model.
 - Classify the embedding using an SVM model.
 - Apply a cosine-similarity threshold to help flag unfamiliar faces as `UNKNOWN`.
-- Show the prediction and similarity score in a Streamlit interface.
 
 ## 🧠 How It Works
 
